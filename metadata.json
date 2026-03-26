@@ -1,0 +1,9 @@
+{
+  "name": "AgriLens East Africa",
+  "description": "A zero-complexity agricultural assistant for East African smallholder farmers, providing climate intelligence, AI crop diagnosis, and market insights.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation",
+    "microphone"
+  ]
+}
